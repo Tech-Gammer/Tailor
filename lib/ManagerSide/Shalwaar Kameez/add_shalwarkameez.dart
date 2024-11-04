@@ -81,7 +81,7 @@ class _AddShalwarKameezState extends State<AddShalwarKameez> {
                                       ),
                                       textAlign: TextAlign.center,
                                     ),
-                                  ),
+                                  ),//////////
                                   Padding(
                                     padding: EdgeInsets.all(8.0),
                                     child: Text(
