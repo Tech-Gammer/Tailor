@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41727049586",
+    "project_id": "sabir-darzi",
+    "storage_bucket": "sabir-darzi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41727049586:android:758ed87c2c4698bb6567eb",
+        "android_client_info": {
+          "package_name": "com.example.Sabir_Tailor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDroXjXR8U0dQOHh-qQBF58aiXGzooq3I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
